@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136a64b8-d533-4c70-86c2-fc00d59ea184" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/SpinWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/SquareDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/Troll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FixedTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SpinWordsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SquareDigitTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="136a64b8-d533-4c70-86c2-fc00d59ea184" name="Changes" comment="codeward 10/05/23" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +23,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -73,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683715350270</updated>
     </task>
+    <task id="LOCAL-00001" summary="codeward 10/05/23">
+      <created>1683717123172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683717123172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="codeward 10/05/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="codeward 10/05/23" />
   </component>
 </project>
