@@ -3,7 +3,7 @@ import unisheld.Troll;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Tests {
+public class TrollTests {
     @Test
     public void FixedTests() {
         assertEquals("Ths wbst s fr lsrs LL!", Troll.disemvowel("This website is for losers LOL!")
