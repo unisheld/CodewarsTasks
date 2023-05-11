@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136a64b8-d533-4c70-86c2-fc00d59ea184" name="Changes" comment="codewars 10/05/23">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/CountingDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/DuplicateEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/FindEvenIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/FindTheUniqueNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/SmileFaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/WhichAreIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CountingDuplicatesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DuplicateEncoderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FindEvenIndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FindTheUniqueNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SmileFacesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WhichAreInTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="136a64b8-d533-4c70-86c2-fc00d59ea184" name="Changes" comment="codewars 11/05/23">
+      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/SumFct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SumFctTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683718693547</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="codewars 11/05/23">
+      <created>1683801899044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683801899044</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="codeward 10/05/23" />
     <MESSAGE value="codewars 10/05/23" />
-    <option name="LAST_COMMIT_MESSAGE" value="codewars 10/05/23" />
+    <MESSAGE value="codewars 11/05/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="codewars 11/05/23" />
   </component>
 </project>
