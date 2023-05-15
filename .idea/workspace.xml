@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136a64b8-d533-4c70-86c2-fc00d59ea184" name="Changes" comment="codewars 12/05/23">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/PigLatin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/Scramblies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PigLatinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ScrambliesTest.java" afterDir="false" />
+    <list default="true" id="136a64b8-d533-4c70-86c2-fc00d59ea184" name="Changes" comment="codewars 13/05/23">
+      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/Mixing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unisheld/RangeExtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MixingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PermutationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RangeExtractionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683883745015</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="codewars 13/05/23">
+      <created>1683979984679</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683979984679</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +162,7 @@
     <MESSAGE value="codewars 10/05/23" />
     <MESSAGE value="codewars 11/05/23" />
     <MESSAGE value="codewars 12/05/23" />
-    <option name="LAST_COMMIT_MESSAGE" value="codewars 12/05/23" />
+    <MESSAGE value="codewars 13/05/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="codewars 13/05/23" />
   </component>
 </project>
